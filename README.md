@@ -5,9 +5,9 @@
 
 - 🌱 Actualmente estoy estudiando **Django**
 
-- 👨‍💻 Todos mis proyectos están disponibles aquí [https://portafolio-alejandro-gonzalez.vercel.app/](https://portafolio-alejandro-gonzalez.vercel.app/)
+- 👨‍💻 Todos mis proyectos están disponibles aquí [portafolio]
 
-- 📫 Me puedes enviar un mail a **ale.gonzalez.gut@gmail.com**
+- 📫 Me puedes enviar un mail a [mail]
 
 - 📄 Puedes ver mi curriculum aquí [curriculum]
 
@@ -30,3 +30,5 @@
 
 
 [curriculum]: https://www.canva.com/design/DAFJxyzj0nc/67-vZPAhyhQgTPLQVSedVQ/view?utm_content=DAFJxyzj0nc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+[portafolio]: https://portafolio-alejandro-gonzalez.vercel.app/
+[mail]: mailto:ale.gonzalez.gut@gmail.com
