@@ -9,14 +9,14 @@
 
 - 📫 Me puedes enviar un mail a **ale.gonzalez.gut@gmail.com**
 
-- 📄 Puedes ver mi curriculum aquí [https://www.canva.com/design/DAFJxyzj0nc/67-vZPAhyhQgTPLQVSedVQ/view?utm_content=DAFJxyzj0nc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFJxyzj0nc/67-vZPAhyhQgTPLQVSedVQ/view?utm_content=DAFJxyzj0nc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Puedes ver mi curriculum aquí [curriculum]
 
 - ⚡ ¡Me gustan mucho los videojuegos! **Actualmente jugando Yakuza: Like a Dragon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alejandro gonzález gutiérrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro gonzález gutiérrez" height="30" width="40" /></a>
-<a href="https://fb.com/alejandro gonzález gutiérrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alejandro gonzález gutiérrez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alejandro-moises-gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro gonzález gutiérrez" height="30" width="40" /></a>
+<a href="https://fb.com/aleee.gonzalez.gut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alejandro gonzález gutiérrez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrogonzalezg&show_icons=true&locale=en" alt="alejandrogonzalezg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrogonzalezg&" alt="alejandrogonzalezg" /></p>
+
+
+[curriculum]: https://www.canva.com/design/DAFJxyzj0nc/67-vZPAhyhQgTPLQVSedVQ/view?utm_content=DAFJxyzj0nc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
