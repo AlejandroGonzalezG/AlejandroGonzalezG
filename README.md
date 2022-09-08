@@ -11,6 +11,7 @@
 
 ### Contáctame!
 
+[<img aling="left" alt="alejandroGonzalez.portafolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/glove.svg" />][website]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] [linkedin]
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[gmail]
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)[whatsapp]
@@ -18,6 +19,7 @@
 
 <br/>
 ### Lenguajes y Herramientas:
+<br/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,3 +42,4 @@
 [linkedin] : https://www.linkedin.com/in/alejandro-moises-gonzalez/
 [gmail] : mailto:ale.gonzalez.gut@gmail.com
 [whatsapp] : https://wa.me/569901813
+[website]: https://portafolio-alejandro-gonzalez.vercel.app/
