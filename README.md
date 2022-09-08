@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles aquí [portafolio]
 
-- 📫 Me puedes enviar un mail a **ale.gonzalez.gut@gmail.com** o haciendo click aquí[mail]
+- 📫 Me puedes enviar un mail a **ale.gonzalez.gut@gmail.com** o haciendo click aquí [mail]
 
 - 📄 Puedes ver mi curriculum aquí [curriculum]
 
