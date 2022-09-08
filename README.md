@@ -1,45 +1,29 @@
-## Mi nombre es Alejandro González y soy Desarrollador Full Stack! [portafolio]
+<h1 align="center">Hola 👋, Mi nombre es Alejandro González</h1>
+<h3 align="center">Soy Desarrollador Full Stack y busco continuar mi viaje aprendiendo nuevas tecnologías</h3>
 
-### Un poco sobre mi:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrogonzalezg&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrogonzalezg" /> </p>
 
-- Actualmente me encuentro buscando trabajo de Desarrollador.
-- Vivo en Santiago, Chile.
-- Busco constantemente oportunidad para seguir aprendiendo.
-- Me gusta ver series, películas, anime, los videojuegos ( actualmente jugando Yazuka: Like a Dragon) y cocinar!
+- 🌱 Actualmente estoy estudiando **Django**
 
-<br/>
+- 👨‍💻 Todos mis proyectos están disponibles aquí [https://portafolio-alejandro-gonzalez.vercel.app/](https://portafolio-alejandro-gonzalez.vercel.app/)
 
-### Contáctame!
+- 📫 Me puedes enviar un mail a **ale.gonzalez.gut@gmail.com**
 
-[<img aling="left" alt="alejandroGonzalez.portafolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/glove.svg" />][website]
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] [linkedin]
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[gmail]
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)[whatsapp]
-- Mi portafolio aqui[portafolio]
+- 📄 Puedes ver mi curriculum aquí [https://www.canva.com/design/DAFJxyzj0nc/67-vZPAhyhQgTPLQVSedVQ/view?utm_content=DAFJxyzj0nc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFJxyzj0nc/67-vZPAhyhQgTPLQVSedVQ/view?utm_content=DAFJxyzj0nc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-<br/>
-### Lenguajes y Herramientas:
-<br/>
+- ⚡ ¡Me gustan mucho los videojuegos! **Actualmente jugando Yakuza: Like a Dragon**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alejandro gonzález gutiérrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro gonzález gutiérrez" height="30" width="40" /></a>
+<a href="https://fb.com/alejandro gonzález gutiérrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alejandro gonzález gutiérrez" height="30" width="40" /></a>
+</p>
 
-<br/>
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-[portafolio] : https://portafolio-alejandro-gonzalez.vercel.app/
-[linkedin] : https://www.linkedin.com/in/alejandro-moises-gonzalez/
-[gmail] : mailto:ale.gonzalez.gut@gmail.com
-[whatsapp] : https://wa.me/569901813
-[website]: https://portafolio-alejandro-gonzalez.vercel.app/
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrogonzalezg&show_icons=true&locale=en&layout=compact" alt="alejandrogonzalezg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrogonzalezg&show_icons=true&locale=en" alt="alejandrogonzalezg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrogonzalezg&" alt="alejandrogonzalezg" /></p>
