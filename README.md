@@ -11,7 +11,7 @@
 
 - 📄 Puedes ver mi curriculum aquí [curriculum]
 
-- ⚡ ¡Me gustan mucho los videojuegos! **Terminado God of War Ragnaroj, actualmente estudiando!!**
+- ⚡ ¡Me gustan mucho los videojuegos! **Terminado God of War Ragnarok, actualmente estudiando!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
