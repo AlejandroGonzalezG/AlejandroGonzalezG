@@ -11,7 +11,7 @@
 
 - 📄 Puedes ver mi curriculum aquí [curriculum]
 
-- ⚡ ¡Me gustan mucho los videojuegos! **Actualmente jugando Yakuza: Like a Dragon**
+- ⚡ ¡Me gustan mucho los videojuegos! **Terminado God of War Ragnaroj, actualmente estudiando!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
