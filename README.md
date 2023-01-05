@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrogonzalezg&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrogonzalezg" /> </p>
 
-- 🌱 Actualmente estoy estudiando **Django**
+- 🌱 Actualmente estoy estudiando **Node.js**
 
 - 👨‍💻 Todos mis proyectos están disponibles aquí [portafolio]
 
