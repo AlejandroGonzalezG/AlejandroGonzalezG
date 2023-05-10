@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrogonzalezg&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrogonzalezg" /> </p>
 
-- 🌱 Actualmente estoy estudiando **Node.js**
+- 🌱 Actualmente estoy estudiando **Typescript**
 
 - 👨‍💻 Todos mis proyectos están disponibles aquí [portafolio]
 
@@ -11,7 +11,7 @@
 
 - 📄 Puedes ver mi curriculum aquí [curriculum]
 
-- ⚡ ¡Me gustan mucho los videojuegos! **Terminado God of War Ragnarok, actualmente estudiando!!**
+- ⚡ ¡Me gustan mucho los videojuegos! **Revisitando Elden Ring!, actualmente aprendiendo Typescript y Azure!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
